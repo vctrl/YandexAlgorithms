@@ -1,0 +1,19 @@
+3
+2 3 4
+2
+
+
+	// expected := make([]int, n*(n+1)/2)
+	// mm := 0
+	// for i := 0; i < len(a); i++ {
+	// 	for j := i + 1; j < len(a); j++ {
+	// 		a1, _ := strconv.Atoi(a[i])
+	// 		a2, _ := strconv.Atoi(a[j])
+	// 		expected[mm] = mod(a1 - a2)
+	// 		mm++
+	// 	}
+	// }
+
+	// fmt.Println(expected)
+	// sort.Ints(expected)
+	// fmt.Println(expected)
